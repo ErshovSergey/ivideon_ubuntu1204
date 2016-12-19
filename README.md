@@ -22,6 +22,7 @@ export SHARE_DIR="/var/lib/mnt_point/4Tb/docker/ivideon2" && mkdir -p $SHARE_DIR
  - *$SHARE_DIR/credetinals/config.xml* - доступ до ivideon.ru
  - *$SHARE_DIR/credetinals/schedule.json* - расписание работы
  - *$SHARE_DIR/credetinals/videoserverd.config* - камеры, логи
+
 ##Запускаем
 Определяем адрес на котором будет доступен для клиента сервер и запускаем
 ```shell
